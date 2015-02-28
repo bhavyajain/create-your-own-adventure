@@ -4,4 +4,4 @@ You wish you had your laptop with you.
 
 After five seconds, the laptop appears in your hands.
 
-It's a MacBook Pro!
+It's a MacBook Pro! I wished for air.
